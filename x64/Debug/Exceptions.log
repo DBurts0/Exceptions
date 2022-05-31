@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(97,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(97,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(98,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(98,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(99,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(99,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(100,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(100,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devla\source\repos\Exceptions\Exceptions\Source.cpp(103,16): warning C4101: 'errNum': unreferenced local variable
+  Exceptions.vcxproj -> C:\Users\devla\source\repos\Exceptions\x64\Debug\Exceptions.exe
